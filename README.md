@@ -1,6 +1,7 @@
 # Forex Charts 
 
 Fractal pattern
+<hr>
 <br>
-<img src="">
-
+<img src="https://github.com/27dvz3279/fx/blob/master/fx1.png">
+FRB target - Aug-18
