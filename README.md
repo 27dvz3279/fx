@@ -1,2 +1,5 @@
-# fx
-Forex Charts 
+# Forex Charts 
+
+Fractal pattern
+
+
