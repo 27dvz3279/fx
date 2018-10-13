@@ -9,3 +9,5 @@ FRB target - (Aug-18)
 <hr>
 <br>
 <a href="https://github.com/27dvz3279/fx/blob/master/Nikkei.ipynb"><img src="nnn.png"></a>
+<br>
+<a href="https://github.com/27dvz3279/fx/blob/master/USD%20JPY.ipynb"><img src="jjj.png"></a>
