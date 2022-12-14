@@ -14,4 +14,4 @@ FRB target - PCE core 2.0
 <br>
 <a href="https://github.com/27dvz3279/fx/blob/master/EUR%20USD.ipynb"><img src="eee.png"></a>
 <br>
-<a href=""><img src="bit.png"></a>
+<a href="https://github.com/27dvz3279/btc"><img src="bit.png"></a>
