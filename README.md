@@ -3,7 +3,7 @@
 Fractal pattern
 <hr>
 <br>
-<img src="https://github.com/27dvz3279/fx/blob/master/fx9.png">
+<img src="https://github.com/27dvz3279/fx/blob/master/fx10.png">
 FRB target - PCE core 2.0
 <br>
 <hr>
